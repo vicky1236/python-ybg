@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 ![Challenge](https://img.shields.io/badge/Challenge-30%20Days-orange)
 ![Focus](https://img.shields.io/badge/Focus-DevOps%20%7C%20Automation%20%7C%20APIs-success)
-![Progress](https://img.shields.io/badge/Progress-0%2F30-lightgrey)
+![Progress](https://img.shields.io/badge/Progress-1%2F30-brightgreen)
 
 A practical, hands-on journey to build strong professional Python skills for **DevOps, SRE, automation, APIs, and production engineering**.
 
@@ -55,7 +55,7 @@ Recommended commitment: **90–120 focused minutes per day**.
 
 | Day | Topic | Hands-on outcome | Status |
 |---:|---|---|:---:|
-| 01 | Python execution, variables, objects, core data types, conversion, input/output, f-strings | Build a system profile card | 🟡 In progress |
+| 01 | Python execution, variables, objects, core data types, conversion, input/output, f-strings | Build a system profile card | ✅ Completed |
 | 02 | Operators, comparisons, Boolean logic, `if/elif/else`, `for`, `while`, `range` | Build a deployment decision engine | ⬜ |
 | 03 | Lists, tuples, sets, dictionaries, slicing, unpacking, comprehensions | Build a server inventory manager | ⬜ |
 | 04 | Functions, parameters, return values, scope, `*args`, `**kwargs`, type hints | Build reusable health-check functions | ⬜ |
@@ -219,13 +219,13 @@ Commit only files that belong to the current lesson. Never commit `.env`, creden
 
 ## 🚀 Current Mission
 
-### Day 1 — Python Foundations
+### Next: Day 2 — Operators and Control Flow
 
-Current goal: understand how Python represents values and executes a script, then build the first system profile program.
+Next goal: use operators, comparisons, Boolean logic, conditions, and loops to build a deployment decision engine.
 
 Start the learning session with:
 
-> **Python 30-Day Mastery — Day 1 Start**
+> **Python 30-Day Mastery — Day 2 Start**
 
 ---
 
