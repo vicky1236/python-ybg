@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 ![Challenge](https://img.shields.io/badge/Challenge-30%20Days-orange)
 ![Focus](https://img.shields.io/badge/Focus-DevOps%20%7C%20Automation%20%7C%20APIs-success)
-![Progress](https://img.shields.io/badge/Progress-1%2F30-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-2%2F30-brightgreen)
 
 A practical, hands-on journey to build strong professional Python skills for **DevOps, SRE, automation, APIs, and production engineering**.
 
@@ -56,7 +56,7 @@ Recommended commitment: **90–120 focused minutes per day**.
 | Day | Topic | Hands-on outcome | Status |
 |---:|---|---|:---:|
 | 01 | Python execution, variables, objects, core data types, conversion, input/output, f-strings | Build a system profile card | ✅ Completed |
-| 02 | Operators, comparisons, Boolean logic, `if/elif/else`, `for`, `while`, `range` | Build a deployment decision engine | ⬜ |
+| 02 | Operators, comparisons, Boolean logic, `if/elif/else`, `for`, `while`, `range` | Build a deployment decision engine | ✅ Completed |
 | 03 | Lists, tuples, sets, dictionaries, slicing, unpacking, comprehensions | Build a server inventory manager | ⬜ |
 | 04 | Functions, parameters, return values, scope, `*args`, `**kwargs`, type hints | Build reusable health-check functions | ⬜ |
 | 05 | Strings, common methods, formatting, parsing, and regular-expression basics | Parse and classify application log lines | ⬜ |
@@ -219,13 +219,13 @@ Commit only files that belong to the current lesson. Never commit `.env`, creden
 
 ## 🚀 Current Mission
 
-### Next: Day 2 — Operators and Control Flow
+### Next: Day 3 — Collections and Comprehensions
 
-Next goal: use operators, comparisons, Boolean logic, conditions, and loops to build a deployment decision engine.
+Next goal: use lists, tuples, sets, dictionaries, slicing, unpacking, and comprehensions to build a server inventory manager.
 
 Start the learning session with:
 
-> **Python 30-Day Mastery — Day 2 Start**
+> **Python 30-Day Mastery — Day 3 Start**
 
 ---
 
